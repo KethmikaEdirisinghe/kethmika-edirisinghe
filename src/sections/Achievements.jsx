@@ -20,7 +20,7 @@ const achievements = [
     date: "2025",
     description: "Received a Certificate of Appreciation for participating in Quora–The Quiz Competition, organized by the Statistics Society of the Faculty of Applied Sciences, University of Sri Jayewardenepura.",
     icon: "certificate",
-    link: "/public/certificates/certificate_quora.pdf",
+    link: "/certificates/certificate_quora.pdf",
    },
 
     {
@@ -30,7 +30,7 @@ const achievements = [
     date: "2026",
     description: "Successfully participated in Data Explore 2.0, completing data analysis, report submission, and an online dashboard workshop organized by the Statistics Society, University of Sri Jayewardenepura.",
     icon: "certificate",
-    link: "/public/certificates/certificate_dataXplore.pdf",
+    link: "/certificates/certificate_dataXplore.pdf",
    }
 ];
 
