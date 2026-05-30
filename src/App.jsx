@@ -2,6 +2,7 @@ import {Hero} from "@/sections/Hero";
 import {About} from "@/sections/About";
 import {Projects} from "@/sections/Projects";
 import {Achievements} from "@/sections/Achievements";
+import {Publications} from "@/sections/Publications";
 import {Contact} from "@/sections/Contact";
 import { Navbar } from "./layout/NavBar";
 import { Footer } from "./layout/Footer";
@@ -17,6 +18,7 @@ function App() {
      <About />
      <Projects />
      <Achievements />
+     <Publications/>
      <Contact />
 
     </main>
